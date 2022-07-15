@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Javascript",
+        "content": "Javascript is awesome!"
+    },
+    {
+        "title": "CSS",
+        "content": "CSS is better!"
+    },
+    {
+        "title": "HTML",
+        "content": "HTML are the bones!"
+    }
+]
